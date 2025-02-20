@@ -1,0 +1,3 @@
+[submodule "AIAgentDrivenTrading"]
+	path = AIAgentDrivenTrading
+	url = https://github.com/jeasonzhang-eth/merkle-eliza-samples
